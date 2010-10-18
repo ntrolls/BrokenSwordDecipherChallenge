@@ -1,0 +1,5 @@
+- The main execution point is solve.py.
+
+- You should provide a word list yourself: a file with one word per line will do. Currently, the source uses 2of12inf.txt which is part of the 12dict project (http://wordlist.sourceforge.net/). You can change the filename to whichever dictionary you want to use.
+
+- The message is encoded in an arbitrary integer mapping in message.py.
